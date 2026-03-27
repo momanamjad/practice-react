@@ -1,3 +1,9 @@
+"This is Account 2's version checking the merge conflicts .
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
